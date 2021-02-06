@@ -1,4 +1,4 @@
-#Lemonade Stand Sale
+#Lemonade Stand Sale FOR FUN
 	 
 Description
     -Use Bootstrap for creating the website- Mockups attached in the img/mockup
