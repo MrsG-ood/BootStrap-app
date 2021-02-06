@@ -1,0 +1,12 @@
+
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Thasadith', sans-serif;
+400, 400 italic, 700, 700 italic */
+
+body{
+    background-color:#ebebeb;
+    background-image: url(img/ls_lg.svg.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin:auto;
+}
